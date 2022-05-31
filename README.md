@@ -12,3 +12,5 @@ This is a guide for open source translations for Project Dagger.
 💻 Now how does the game load and use this information? It's rather simple, they must be exported as a CSV or Comma Separated Value file in the same format as this one here http://hya.to/TRZipmgaL5 This is the english translations list and the CSV should not have any other columns or information other than the language that the translations belong to, that way the game won't have any issues loading in the language.
 
 💬 If you have any questions regarding all of this, consider joining the Discord! : https://discord.gg/DjpCanQFwx
+
+🌎 Also it would mean a lot if you do contribute to translating what goes on in Project Dagger to also consider translating the Store Page as well! My goal is for Project Dagger to evolve in a way where it's constantly becoming more and more fun and to reach as many people as possible.
