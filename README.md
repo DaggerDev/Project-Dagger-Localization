@@ -8,3 +8,7 @@ This is a guide for open source translations for Project Dagger.
 💬 I am working on a system where users can patch in languages that are not officially supported within the game. I will try based on community feedback though whenever a new lanaguage becomes supported to add that list into the game as soon as possible.
 
 💬 Anyone that does contribute though to localizing new languages and gets their list or even their contribution added into the game I will add to the credits menu, although it will likely be Github username/name.
+
+💻 Now how does the game load and use this information? It's rather simple, they must be exported as a CSV or Comma Separated Value file in the same format as this one here http://hya.to/TRZipmgaL5 This is the english translations list and the CSV should not have any other columns or information other than the language that the translations belong to, that way the game won't have any issues loading in the language.
+
+💬 If you have any questions regarding all of this, consider joining the Discord! : https://discord.gg/DjpCanQFwx
