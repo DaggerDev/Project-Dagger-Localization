@@ -16,16 +16,16 @@ This is a guide for open source translations for Project Dagger.
 🌎 Also it would mean a lot if you do contribute to translating what goes on in Project Dagger to also consider translating the Store Page as well! My goal is for Project Dagger to evolve in a way where it's constantly becoming more and more fun and to reach as many people as possible.
 
 👋 Credits List : 👋
-French - Mathus, Vorty
-Portuguese - TheLife
-Turkish -
-Japanese -
-Hungarian - 
-Russian - 
-Ukrainian - 
-Spanish - 
-Traditional Chinese -
-Simplified Chinese -
+👋 French - Mathus, Vorty
+👋 Portuguese - TheLife
+👋 Turkish -
+👋 Japanese -
+👋 Hungarian - 
+👋 Russian - 
+👋 Ukrainian - 
+👋 Spanish - 
+👋 Traditional Chinese -
+👋 Simplified Chinese -
 German -
 French -
 Polish -
