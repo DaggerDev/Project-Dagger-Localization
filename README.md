@@ -1,6 +1,8 @@
 # Project-Dagger-Localization
 This is a guide for open source translations for Project Dagger.
 
+🛑 Before contributing make sure that any translations you provide are on your own Excel/Google Spreadsheet, whenever you are done you are to create a Github repository under the CC0 license and publish your translations there or include the CC0 license in the folder with your spreadsheet when creating a pull request here. Also you understand that any contributions to helping translate Project Dagger do not come with financial compensation, and that you accept your translations being used within the game whenever you provide a Github repo link or contribute a list of translations. That contribution to this repository and to Project Dagger you hereby assign copyright to this Project, and to be licensed under the same agreement (CC0) as the Project.
+
 💬 Project Dagger uses a fairly simple system, there is a list of strings that are formatted a specific way. For example, "Game.Item.Mead.Defense.4" Is how the game will look for localizations for the item Mead of Defense++++. Another example would be "Game.Paused" which is how the game looks for Game Paused which is displayed when you press Escape while playing the game and the pause menu appears.
 
 📗 Google Sheets Link (View Game Strings + English List) 📗 - http://hya.to/xnPuD54LLU (this is just a shortened link).
